@@ -3,8 +3,6 @@
 <h3 align="center">Développeur junior en front-end</h3>
 <p>Je suis étudiant à l'école informatique des finances, passionné de la technologie informatique de communication en m'orientant sur la programmation informatique concernant le développement des sites web et applications </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelntuala&label=Profile%20views&color=0e75b6&style=flat" alt="joelntuala" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelntuala" alt="joelntuala" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
