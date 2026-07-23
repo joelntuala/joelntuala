@@ -63,11 +63,6 @@ Développeur Web Passionné | PHP | MySQL | HTML | CSS | Bootstrap
 
  ![](https://github-readme-activity-graph.vercel.app/graph?username=joelntuala&theme=github-dark)
 
- 💬 Citation
-
-> "Chaque ligne de code est un pas vers l'excellence."*
-
-
 
 <h3 align="center">
 Merci de visiter mon profil 
