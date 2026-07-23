@@ -37,7 +37,7 @@ Développeur Web Passionné | PHP | MySQL | HTML | CSS | Bootstrap
 
 ![](https://github-readme-stats.vercel.app/api?username=joelntuala&theme=github_dark&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=github-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joelntuala&theme=github-dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelnthuala&layout=compact&theme=github_dark)
 
