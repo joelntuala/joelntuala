@@ -53,10 +53,10 @@ Développeur Web Passionné | PHP | MySQL | HTML | CSS | Bootstrap
 
 
 
- ✨ Citation
+  Citation
 
 > "Chaque ligne de code est un pas vers l'excellence."
 
 <h3 align="center">
-Merci de visiter mon profil ⭐
+Merci de visiter mon profil 
 </h3>
