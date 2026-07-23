@@ -1,13 +1,16 @@
-<h1 align="center">Salut , Je suis Joël Ntuala</h1>
-
+<h1 align="center"> <h1> Salut, je suis Joël Ntuala </h1>
 
  À propos de moi
 
-- Passionné par le développement web.
-- J'apprends continuellement de nouvelles technologies.
-- Mon objectif est de contribuer à des projets open-source et développer des solutions utiles.
-- République Démocratique du Congo (RDC)
+Je suis un développeur web passionné par la création d'applications web modernes, performantes et faciles à utiliser.
 
+Actuellement, je perfectionne mes compétences en développement web en réalisant des projets concrets qui me permettent d'améliorer mon code et d'adopter les bonnes pratiques de développement.
+
+Mon objectif est de développer des solutions fiables, évolutives et utiles tout en continuant à apprendre de nouvelles technologies.
+
+
+
+  
  🌐 Réseaux sociaux
 
 <p align="left">
