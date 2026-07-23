@@ -1,15 +1,10 @@
 <h1 align="center">Salut , Je suis Joël Ntuala</h1>
 
-<h3 align="center">
-Développeur Web Passionné | PHP | MySQL | HTML | CSS | Bootstrap
-</h3>
-
 
  À propos de moi
 
 - Passionné par le développement web.
 - J'apprends continuellement de nouvelles technologies.
-- J'aime créer des applications web modernes.
 - Mon objectif est de contribuer à des projets open-source et développer des solutions utiles.
 - République Démocratique du Congo (RDC)
 
